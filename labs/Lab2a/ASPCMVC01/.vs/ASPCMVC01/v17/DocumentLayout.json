@@ -1,0 +1,724 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc05\\controllers\\parmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|solutionrelative:aspcmvc05\\controllers\\parmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD89A6F-F435-4CB5-B0B9-7F7E2E7F3D5C}|ASPCMVC04\\ASPCMVC04.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD89A6F-F435-4CB5-B0B9-7F7E2E7F3D5C}|ASPCMVC04\\ASPCMVC04.csproj|solutionrelative:aspcmvc04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|solutionrelative:aspcmvc03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc03\\views\\start\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|solutionrelative:aspcmvc03\\views\\start\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD89A6F-F435-4CB5-B0B9-7F7E2E7F3D5C}|ASPCMVC04\\ASPCMVC04.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc04\\controllers\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD89A6F-F435-4CB5-B0B9-7F7E2E7F3D5C}|ASPCMVC04\\ASPCMVC04.csproj|solutionrelative:aspcmvc04\\controllers\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc05\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|solutionrelative:aspcmvc05\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc05\\views\\parm\\uri04.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|solutionrelative:aspcmvc05\\views\\parm\\uri04.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc05\\views\\parm\\uri03.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|solutionrelative:aspcmvc05\\views\\parm\\uri03.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc05\\views\\parm\\uri02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|solutionrelative:aspcmvc05\\views\\parm\\uri02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc05\\views\\parm\\uri01.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|solutionrelative:aspcmvc05\\views\\parm\\uri01.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc05\\views\\parm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|solutionrelative:aspcmvc05\\views\\parm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|solutionrelative:aspcmvc05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD89A6F-F435-4CB5-B0B9-7F7E2E7F3D5C}|ASPCMVC04\\ASPCMVC04.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc04\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8BD89A6F-F435-4CB5-B0B9-7F7E2E7F3D5C}|ASPCMVC04\\ASPCMVC04.csproj|solutionrelative:aspcmvc04\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc03\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|solutionrelative:aspcmvc03\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc03\\controllers\\startcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|solutionrelative:aspcmvc03\\controllers\\startcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc03\\views\\start\\two.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|solutionrelative:aspcmvc03\\views\\start\\two.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc03\\views\\start\\three.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|solutionrelative:aspcmvc03\\views\\start\\three.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc03\\views\\start\\one.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|solutionrelative:aspcmvc03\\views\\start\\one.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|solutionrelative:aspcmvc02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|solutionrelative:aspcmvc02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|solutionrelative:aspcmvc01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|solutionrelative:aspcmvc01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc01\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|solutionrelative:aspcmvc01\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|solutionrelative:aspcmvc02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc05\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4E61F47-F161-44D6-85C6-D4BEC608EDC2}|ASPCMVC05\\ASPCMVC05.csproj|solutionrelative:aspcmvc05\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc03\\aspcmvc03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|solutionrelative:aspcmvc03\\aspcmvc03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD89A6F-F435-4CB5-B0B9-7F7E2E7F3D5C}|ASPCMVC04\\ASPCMVC04.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc04\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BD89A6F-F435-4CB5-B0B9-7F7E2E7F3D5C}|ASPCMVC04\\ASPCMVC04.csproj|solutionrelative:aspcmvc04\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|solutionrelative:aspcmvc03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc03\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{136EC9FA-83C6-449A-BA9A-135B07DEE182}|ASPCMVC03\\ASPCMVC03.csproj|solutionrelative:aspcmvc03\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc02\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|solutionrelative:aspcmvc02\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc02\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|solutionrelative:aspcmvc02\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|solutionrelative:aspcmvc02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|solutionrelative:aspcmvc01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc02\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|solutionrelative:aspcmvc02\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc02\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|solutionrelative:aspcmvc02\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54281E55-6157-4AFE-923A-7E2BA05B22A5}|ASPCMVC02\\ASPCMVC02.csproj|solutionrelative:aspcmvc02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|solutionrelative:aspcmvc01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc01\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|solutionrelative:aspcmvc01\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|solutionrelative:aspcmvc01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|solutionrelative:aspcmvc01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc01\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|solutionrelative:aspcmvc01\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2a\\aspcmvc01\\aspcmvc01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5737B7E-EFA4-4934-A130-F2C069AFF759}|ASPCMVC01\\ASPCMVC01.csproj|solutionrelative:aspcmvc01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC04\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCMVC04\\Program.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC04\\Program.cs",
+              "RelativeToolTip": "ASPCMVC04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:48:40.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPCMVC05\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASPCMVC05\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:38:16.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StartController.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Controllers\\StartController.cs",
+              "RelativeDocumentMoniker": "ASPCMVC03\\Controllers\\StartController.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Controllers\\StartController.cs",
+              "RelativeToolTip": "ASPCMVC03\\Controllers\\StartController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T21:50:51.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Views\\Start\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC03\\Views\\Start\\Index.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Views\\Start\\Index.cshtml",
+              "RelativeToolTip": "ASPCMVC03\\Views\\Start\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T21:53:20.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "test.http",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\test.http",
+              "RelativeDocumentMoniker": "ASPCMVC03\\test.http",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\test.http",
+              "RelativeToolTip": "ASPCMVC03\\test.http",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-22T22:40:53.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC04\\Controllers\\Status.cs",
+              "RelativeDocumentMoniker": "ASPCMVC04\\Controllers\\Status.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC04\\Controllers\\Status.cs",
+              "RelativeToolTip": "ASPCMVC04\\Controllers\\Status.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T06:45:11.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParmController.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Controllers\\ParmController.cs",
+              "RelativeDocumentMoniker": "ASPCMVC05\\Controllers\\ParmController.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Controllers\\ParmController.cs",
+              "RelativeToolTip": "ASPCMVC05\\Controllers\\ParmController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T06:52:59.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Views\\Parm\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC05\\Views\\Parm\\Index.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Views\\Parm\\Index.cshtml",
+              "RelativeToolTip": "ASPCMVC05\\Views\\Parm\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T06:55:55.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Uri01.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Views\\Parm\\Uri01.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC05\\Views\\Parm\\Uri01.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Views\\Parm\\Uri01.cshtml",
+              "RelativeToolTip": "ASPCMVC05\\Views\\Parm\\Uri01.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T07:00:03.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Uri02.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Views\\Parm\\Uri02.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC05\\Views\\Parm\\Uri02.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Views\\Parm\\Uri02.cshtml",
+              "RelativeToolTip": "ASPCMVC05\\Views\\Parm\\Uri02.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T07:01:17.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Uri03.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Views\\Parm\\Uri03.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC05\\Views\\Parm\\Uri03.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Views\\Parm\\Uri03.cshtml",
+              "RelativeToolTip": "ASPCMVC05\\Views\\Parm\\Uri03.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T07:00:31.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Uri04.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Views\\Parm\\Uri04.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC05\\Views\\Parm\\Uri04.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Views\\Parm\\Uri04.cshtml",
+              "RelativeToolTip": "ASPCMVC05\\Views\\Parm\\Uri04.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T07:02:44.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test.http",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\test.http",
+              "RelativeDocumentMoniker": "ASPCMVC05\\test.http",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\test.http",
+              "RelativeToolTip": "ASPCMVC05\\test.http",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-23T07:03:22.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCMVC03\\Program.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Program.cs",
+              "RelativeToolTip": "ASPCMVC03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T06:42:34.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Two.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Views\\Start\\Two.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC03\\Views\\Start\\Two.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Views\\Start\\Two.cshtml",
+              "RelativeToolTip": "ASPCMVC03\\Views\\Start\\Two.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T21:54:13.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Three.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Views\\Start\\Three.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC03\\Views\\Start\\Three.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Views\\Start\\Three.cshtml",
+              "RelativeToolTip": "ASPCMVC03\\Views\\Start\\Three.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T21:54:38.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "One.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Views\\Start\\One.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC03\\Views\\Start\\One.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Views\\Start\\One.cshtml",
+              "RelativeToolTip": "ASPCMVC03\\Views\\Start\\One.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T21:53:54.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCMVC02\\Program.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Program.cs",
+              "RelativeToolTip": "ASPCMVC02\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:18:58.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPCMVC02\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASPCMVC02\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:23:32.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCMVC01\\Program.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Program.cs",
+              "RelativeToolTip": "ASPCMVC01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:11:32.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPCMVC01\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASPCMVC01\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:11:35.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "test.http",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC04\\test.http",
+              "RelativeDocumentMoniker": "ASPCMVC04\\test.http",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC04\\test.http",
+              "RelativeToolTip": "ASPCMVC04\\test.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-23T06:48:23.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.html",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "ASPCMVC01\\wwwroot\\Index.html",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\wwwroot\\Index.html",
+              "RelativeToolTip": "ASPCMVC01\\wwwroot\\Index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-22T17:12:51.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPCMVC02\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPCMVC02\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:23:38.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC04\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPCMVC04\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC04\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPCMVC04\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T06:48:38.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPCMVC05\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC05\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPCMVC05\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T07:04:01.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPCMVC03\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPCMVC03\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T22:05:46.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ASPCMVC03.csproj",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\ASPCMVC03.csproj",
+              "RelativeDocumentMoniker": "ASPCMVC03\\ASPCMVC03.csproj",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\ASPCMVC03.csproj",
+              "RelativeToolTip": "ASPCMVC03\\ASPCMVC03.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T22:30:14.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC03\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC03\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPCMVC03\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T21:52:11.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPCMVC01\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPCMVC01\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T17:42:01.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPCMVC02\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPCMVC02\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T17:41:46.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC02\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASPCMVC02\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T17:41:35.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC02\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASPCMVC02\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T17:23:50.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC02\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ASPCMVC02\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T17:24:31.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPCMVC02\\appsettings.json",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\appsettings.json",
+              "RelativeToolTip": "ASPCMVC02\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T17:20:43.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPCMVC02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T17:24:32.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPCMVC01\\appsettings.json",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\appsettings.json",
+              "RelativeToolTip": "ASPCMVC01\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T17:11:58.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASPCMVC01\\appsettings.Development.json",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\appsettings.Development.json",
+              "RelativeToolTip": "ASPCMVC01\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T17:12:02.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC01\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASPCMVC01\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T17:11:54.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC01\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ASPCMVC01\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T17:11:53.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPCMVC01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T17:11:43.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPCMVC01\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2a\\ASPCMVC01\\ASPCMVC01\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPCMVC01\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:11:42.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

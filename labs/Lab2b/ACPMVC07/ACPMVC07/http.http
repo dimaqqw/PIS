@@ -1,0 +1,26 @@
+#GET:M04
+GET http://localhost:5151/it/4/DDD
+###
+#GET:M05
+#POST:M05
+GET http://localhost:5151/it/true/DDD
+###
+POST http://localhost:5151/it/false/DDD
+###
+
+
+#GET:M06
+#DELETE:M06
+GET http://localhost:5151/it/5.1/DDD
+###
+DELETE http://localhost:5151/it/6.123/DDD
+###
+
+
+#PUT:M07
+PUT http://localhost:5151/it/DDD/152
+###
+
+
+#POST:M08
+POST http://localhost:5151/it/dimaaqqw@mail.ru

@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2b\\ACPMVC07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818E0D0E-AAAA-4BE8-922B-6893B1B6DE9E}|ACPMVC07\\ACPMVC07.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2b\\acpmvc07\\acpmvc07\\http.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{818E0D0E-AAAA-4BE8-922B-6893B1B6DE9E}|ACPMVC07\\ACPMVC07.csproj|solutionrelative:acpmvc07\\http.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818E0D0E-AAAA-4BE8-922B-6893B1B6DE9E}|ACPMVC07\\ACPMVC07.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2b\\acpmvc07\\acpmvc07\\controllers\\taresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818E0D0E-AAAA-4BE8-922B-6893B1B6DE9E}|ACPMVC07\\ACPMVC07.csproj|solutionrelative:acpmvc07\\controllers\\taresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818E0D0E-AAAA-4BE8-922B-6893B1B6DE9E}|ACPMVC07\\ACPMVC07.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2b\\acpmvc07\\acpmvc07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818E0D0E-AAAA-4BE8-922B-6893B1B6DE9E}|ACPMVC07\\ACPMVC07.csproj|solutionrelative:acpmvc07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818E0D0E-AAAA-4BE8-922B-6893B1B6DE9E}|ACPMVC07\\ACPMVC07.csproj|d:\\kurs3\\sem2\\pis\\labs\\lab2b\\acpmvc07\\acpmvc07\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{818E0D0E-AAAA-4BE8-922B-6893B1B6DE9E}|ACPMVC07\\ACPMVC07.csproj|solutionrelative:acpmvc07\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2b\\ACPMVC07\\ACPMVC07\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ACPMVC07\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2b\\ACPMVC07\\ACPMVC07\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ACPMVC07\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T09:04:50.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "http.http",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2b\\ACPMVC07\\ACPMVC07\\http.http",
+              "RelativeDocumentMoniker": "ACPMVC07\\http.http",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2b\\ACPMVC07\\ACPMVC07\\http.http",
+              "RelativeToolTip": "ACPMVC07\\http.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-13T09:04:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TAResearch.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2b\\ACPMVC07\\ACPMVC07\\Controllers\\TAResearch.cs",
+              "RelativeDocumentMoniker": "ACPMVC07\\Controllers\\TAResearch.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2b\\ACPMVC07\\ACPMVC07\\Controllers\\TAResearch.cs",
+              "RelativeToolTip": "ACPMVC07\\Controllers\\TAResearch.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:18:55.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2b\\ACPMVC07\\ACPMVC07\\Program.cs",
+              "RelativeDocumentMoniker": "ACPMVC07\\Program.cs",
+              "ToolTip": "D:\\kurs3\\sem2\\PIS\\labs\\Lab2b\\ACPMVC07\\ACPMVC07\\Program.cs",
+              "RelativeToolTip": "ACPMVC07\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:18:22.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab2</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <button id="start" onclick="start()">Пуск</button>
+    <button id="stop" onclick="stop()">Стоп</button>
+    <div id="messages"></div>
+
+    <script>
+        var sockets = [];
+
+        const start = async () => {
+            var socket = new WebSocket("ws://localhost:5121/ws");
+
+            socket.onmessage = function (event) {
+                var messages = document.getElementById('messages')
+                messages.innerHTML += event.data + '<br />';
+            };
+
+            sockets.push(socket);
+        }
+
+        const stop = async () => {
+            sockets.forEach(socket => {
+                if (socket) {
+                    socket.close();
+                }
+            });
+            sockets = [];
+        }
+    </script>
+
+</body>
+</html>
